@@ -1,0 +1,20 @@
+[
+  {
+    "Age": 29,
+    "Email": "amira@example.com",
+    "Phone": "0413000000",
+    "DoctorId": 10,
+    "Id": 20001,
+    "Name": "Amira",
+    "Password": "1234"
+  },
+  {
+    "Age": 22,
+    "Email": "seb@test.com",
+    "Phone": "0499922",
+    "DoctorId": -1,
+    "Id": 20002,
+    "Name": "Seb",
+    "Password": "122"
+  }
+]

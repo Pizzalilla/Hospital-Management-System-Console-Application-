@@ -1,0 +1,18 @@
+[
+  {
+    "Specialty": "Cardiology",
+    "Email": "chen@hospital.org",
+    "Phone": "0412000000",
+    "Id": 10001,
+    "Name": "Chen",
+    "Password": "pass"
+  },
+  {
+    "Specialty": "Joints",
+    "Email": "test2@doctor.com",
+    "Phone": "029434234",
+    "Id": 10,
+    "Name": "Kartikay",
+    "Password": "12233"
+  }
+]

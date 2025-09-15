@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 30000,
+    "DoctorId": 10001,
+    "PatientId": 20001,
+    "Notes": "flu"
+  },
+  {
+    "Id": 30001,
+    "DoctorId": 10,
+    "PatientId": 20001,
+    "Notes": "Joint Pain"
+  }
+]

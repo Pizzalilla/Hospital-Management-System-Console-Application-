@@ -1,0 +1,36 @@
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\Hospital Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\Hospital Management System.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\Hospital Management System.AssemblyInfo.cs
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Hospital Management System.exe
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Hospital Management System.deps.json
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Hospital Management System.runtimeconfig.json
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Hospital Management System.dll
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Hospital Management System.pdb
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\Hospital Management System.dll
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\refint\Hospital Management System.dll
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\Hospital Management System.pdb
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\Hospital Management System.genruntimeconfig.cache
+C:\Users\admin\Desktop\Hospital Management System\obj\Debug\net8.0\ref\Hospital Management System.dll
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Data\admins.json
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Data\appointments.json
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Data\doctors.json
+C:\Users\admin\Desktop\Hospital Management System\bin\Debug\net8.0\Data\patients.json
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Data\admins.json
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Data\appointments.json
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Data\doctors.json
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Data\patients.json
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Hospital Management System.exe
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Hospital Management System.deps.json
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Hospital Management System.runtimeconfig.json
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Hospital Management System.dll
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\bin\Debug\net8.0\Hospital Management System.pdb
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.AssemblyInfo.cs
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.dll
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\refint\Hospital Management System.dll
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.pdb
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\Hospital Management System.genruntimeconfig.cache
+C:\Users\admin\Desktop\Hospital Management System\Hospital Management System\obj\Debug\net8.0\ref\Hospital Management System.dll
